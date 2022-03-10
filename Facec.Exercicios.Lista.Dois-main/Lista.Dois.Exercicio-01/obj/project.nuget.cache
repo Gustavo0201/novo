@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNKI4MOADr6HdPOuUQl8BW1Hga+GFAYexaC10Pqyd1l0d3jCLwCp0Z2hEeceRYJTS5XxhDDQ+IWP9AS9Z6Gl4w==",
+  "success": true,
+  "projectFilePath": "/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-01/Lista.Dois.Exercicio-01.csproj",
+  "expectedPackageFiles": [
+    "/home/abdon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

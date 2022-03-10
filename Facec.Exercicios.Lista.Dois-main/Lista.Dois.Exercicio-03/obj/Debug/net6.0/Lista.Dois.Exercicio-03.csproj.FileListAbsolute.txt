@@ -1,0 +1,15 @@
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/bin/Debug/net6.0/Lista.Dois.Exercicio-03
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/bin/Debug/net6.0/Lista.Dois.Exercicio-03.deps.json
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/bin/Debug/net6.0/Lista.Dois.Exercicio-03.runtimeconfig.json
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/bin/Debug/net6.0/Lista.Dois.Exercicio-03.dll
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/bin/Debug/net6.0/ref/Lista.Dois.Exercicio-03.dll
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/bin/Debug/net6.0/Lista.Dois.Exercicio-03.pdb
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/obj/Debug/net6.0/Lista.Dois.Exercicio-03.csproj.AssemblyReference.cache
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/obj/Debug/net6.0/Lista.Dois.Exercicio-03.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/obj/Debug/net6.0/Lista.Dois.Exercicio-03.AssemblyInfoInputs.cache
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/obj/Debug/net6.0/Lista.Dois.Exercicio-03.AssemblyInfo.cs
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/obj/Debug/net6.0/Lista.Dois.Exercicio-03.csproj.CoreCompileInputs.cache
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/obj/Debug/net6.0/Lista.Dois.Exercicio-03.dll
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/obj/Debug/net6.0/ref/Lista.Dois.Exercicio-03.dll
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/obj/Debug/net6.0/Lista.Dois.Exercicio-03.pdb
+/home/abdon/Documentos/Faculdade/Programação IV/Facec.Exercicios.Lista.Dois/Lista.Dois.Exercicio-03/obj/Debug/net6.0/Lista.Dois.Exercicio-03.genruntimeconfig.cache
